@@ -3,7 +3,6 @@
 ## Index
 
 - [About the project](#about-the-project)
-<!-- - [Deploy](#deploy) -->
 - [Technologies and tools used](#technologies-and-tools-used)
 - [Starting the project](#starting-the-project)
 
@@ -22,20 +21,12 @@ This project was proposed by [Digital Innovation One](https://web.digitalinnovat
 
 <br>
 
-<!-- ## Deploy
-
-Deploy link:
-[Deploy](https://carlosdoria.vercel.app/)
-
-<br> -->
-
 ## 🚀 Technologies and tools used
 
 The project was developed with the following technologies and tools:
 
 - [ReactJS](https://nextjs.org/);
 - [Styled Components](https://styled-components.com/);
-- [PWA](https://developer.mozilla.org/pt-BR/docs/Web/Progressive_web_apps);
 
 <br>
 
